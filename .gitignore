@@ -1,0 +1,10 @@
+node_modules/
+.DS_Store
+
+docs-site/node_modules/
+docs-site/build/
+docs-site/.docusaurus/
+docs-site/.cache/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
