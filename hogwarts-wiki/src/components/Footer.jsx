@@ -5,6 +5,13 @@ function Footer() {
         <p className="font-cinzel text-accent text-sm tracking-widest mb-2">
           ⚡ Hogwarts Wiki
         </p>
+        <p className="text-text-primary text-sm font-raleway mb-3">
+          Developed by{" "}
+          <span className="text-accent font-semibold">
+            Başak Korkut
+          </span>
+          {" "} — Made with love, as a small memory for my nephews.
+        </p>
         <p className="text-text-muted text-xs font-raleway">
           Built with React & Tailwind CSS — Data from{" "}
           <a

@@ -1,6 +1,6 @@
 # ⚡ Hogwarts Wiki — Harry Potter Universe Explorer
 
-A fully interactive Harry Potter Wiki built with **React** and **Tailwind CSS** as a midterm project for **SE 3355 Web Programming**. The application consumes two public APIs to present characters, books, spells, and an interactive Sorting Hat quiz in a clean, responsive, and immersive dark-themed interface.
+A fully interactive Harry Potter Wiki built with **React** and **Tailwind CSS** . The application consumes two public APIs to present characters, books, spells, and an interactive Sorting Hat quiz in a clean, responsive, and immersive dark-themed interface.
 
 **Live Demo:** [hogwarts-wiki.vercel.app](https://hogwarts-wiki.vercel.app)
 
